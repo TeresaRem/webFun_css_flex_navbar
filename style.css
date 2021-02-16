@@ -1,7 +1,7 @@
-* {
+/**{
     margin: 0;
     padding: 0;
-  }
+  }*/
   
   .wrapper {
     background-color: rgb(168, 179, 167);
@@ -19,7 +19,7 @@
     height: 100px;
     width: 100px;
     margin: auto;
-     }
+  }
   
   div{
     height: 100px;
